@@ -1,0 +1,22 @@
+{
+  "name": "realtime",
+  "version": "0.0.1",
+  "description": "Save and playback data in realitme with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanguir/realtime.git"
+  },
+  "author": "Alan Languirand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanguir/realtime/issues"
+  },
+  "homepage": "https://github.com/alanguir/realtime#readme",
+  "dependencies": {
+    "performance-now": "^0.2.0"
+  }
+}
